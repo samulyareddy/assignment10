@@ -834,7 +834,7 @@ footer .subscribe .img2 {
 .footer-content {
     display: flex;
     justify-content: space-between;
-    gap: 2rem;
+    gap: -1rem;
     max-width: 1200px;
     margin: 0 auto 2rem;
     flex-wrap: wrap;
@@ -849,16 +849,19 @@ footer .subscribe .img2 {
     font-size: 1.5rem;
     color: #333;
     margin-bottom: 1rem;
+    margin-left: 30%;
 }
 
 .footer-column p {
     font-size: 1rem;
     color: gray;
     margin-bottom: 1rem;
+    margin-left: 30%;
 }
 
 .footer-column ul {
     list-style: none;
+    margin-left: 30%;
 }
 
 .footer-column ul li {
@@ -878,6 +881,7 @@ footer .subscribe .img2 {
 .social-links {
     display: flex;
     margin-top: 1rem;
+    margin-left: 23%;
 }
 
 
